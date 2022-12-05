@@ -47,7 +47,7 @@ I am a Full-Stack developer in love with programming and the IT world. I am look
 ## 📈 Github Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuelguerra&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=nahuelguerra&theme=radical)](https://git.io/streak-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelguerra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br /> 
 
