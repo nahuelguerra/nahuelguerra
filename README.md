@@ -7,7 +7,7 @@
 </div>
 
 ## 🚀 About Me:
-I am a Full-Stack developer in love with programming and the IT world. I am looking for constant learning to improve the skills I already have and to acquire knowledge in new programming languages.
+I am a Full-Stack developer in love with programming and the IT world. I am looking for constant learning to improve the skills I already have and to acquire knowledge in new programming languages. I am a professional when it comes to working and I also consider human relations and teamwork essential.
 
 - 🌱 I’m currently learning **Next.js and Mongoose**
 
