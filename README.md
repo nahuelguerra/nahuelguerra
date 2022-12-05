@@ -1,16 +1,20 @@
+<div>
+<img src='https://cdn.urbantecno.com/urbantecno/2022/06/lenguajes-programacion.jpg' alt='stack PERN' align='center' width='100%' height='400px'/>
+</div>
 
 <h1 align="center">Hi 👋, I'm Nahuel Emiliano Guerra</h1>
 <h3 align="center">Full-Stack developer :heart: from Argentina:earth_americas:!</h3>
-
-<div>
-<img src='https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200402205611/What-is-PERN-Stack.png' alt='stack PERN' align='center' width='100%' height='300px'/>
-</div>
 
 ## 🚀 About Me:
 I am a Full-Stack developer in love with programming and the IT world. I am looking for constant learning to improve the skills I already have and to acquire knowledge in new programming languages. I am a professional when it comes to working and I also consider human relations and teamwork essential.
 
 - 🌱 I’m currently learning **Next.js and Mongoose**
-- -🌱 I’m currently working in **projects and my portfolio**
+
+
+- 🔭 I’m currently working on personal projects and my portfolio to grow up and improve my skills
+  
+
+- ❓ Ask me about anything related to MERN/PERN stack and related technologies  
 
 ## :star: Languages and Tools:
 
@@ -33,6 +37,11 @@ I am a Full-Stack developer in love with programming and the IT world. I am look
   <code><img width="10%" height="50px" src="https://cdn.worldvectorlogo.com/logos/scrum-1.svg"></code>
   <br />
 </p>
+
+## 🚀 Github Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuelguerra&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nahuelguerra&theme=radical)](https://git.io/streak-stats) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelguerra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :pushpin: My featured proyects
 <h3 align="start">:dog:PawsFounging</h3>
