@@ -21,8 +21,9 @@ I am a Full-Stack developer in love with programming and the IT world. I am look
   <code><img width="10%" height="50px" src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg"></code>
   <code><img width="10%" height="50px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></code>
   <code><img width="10%" height="50px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></code>
-  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <br /> 
+  <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"></code>
   <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img  width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
@@ -33,3 +34,15 @@ I am a Full-Stack developer in love with programming and the IT world. I am look
 </p>
 
 ## :pushpin: My featured proyects
+<h3 align="start">:dog:PawsFounging</h3>
+link: <a href="https://pf-henry-grupo05.vercel.app">pf-henry-grupo05.vercel.app</a> &nbsp;
+
+<h3 align="start">:tomato:FoodApp</h3>
+link: <a href="https://github.com/nahuelguerra/Pi-FoodApp">github.com/nahuelguerra/Pi-FoodApp</a> &nbsp;
+
+## :paperclip: How to reach me:
+<span >
+<a href="https://www.linkedin.com/in/nahuel-emiliano-guerra-77860324b/" ><img width="5%" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> &nbsp;
+<a href="mailto:nahuelguerra997e@gmail.com" ><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png"> &nbsp;
+<a href="whatsapp://send?abid=2664790932&text=Hello!" ><img width="5%" src="https://es.logodownload.org/wp-content/uploads/2018/10/whatsapp-logo-11.png"> &nbsp;
+</span>
