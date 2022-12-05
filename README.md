@@ -5,6 +5,8 @@
 <h1 align="center">Hi 👋, I'm Nahuel Emiliano Guerra</h1>
 <h3 align="center">Full-Stack developer :heart: from Argentina:earth_americas:!</h3>
 
+<br /> 
+
 ## 🚀 About Me:
 I am a Full-Stack developer in love with programming and the IT world. I am looking for constant learning to improve the skills I already have and to acquire knowledge in new programming languages. I am a professional when it comes to working and I also consider human relations and teamwork essential.
 
@@ -15,6 +17,8 @@ I am a Full-Stack developer in love with programming and the IT world. I am look
   
 
 - ❓ Ask me about anything related to MERN/PERN stack and related technologies  
+
+<br /> 
 
 ## :star: Languages and Tools:
 
@@ -38,10 +42,14 @@ I am a Full-Stack developer in love with programming and the IT world. I am look
   <br />
 </p>
 
+<br /> 
+
 ## 🚀 Github Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuelguerra&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=nahuelguerra&theme=radical)](https://git.io/streak-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelguerra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<br /> 
 
 ## :pushpin: My featured proyects
 <h3 align="start">:dog:PawsFounging</h3>
@@ -49,6 +57,9 @@ link: <a href="https://pf-henry-grupo05.vercel.app">pf-henry-grupo05.vercel.app<
 
 <h3 align="start">:tomato:FoodApp</h3>
 link: <a href="https://github.com/nahuelguerra/Pi-FoodApp">github.com/nahuelguerra/Pi-FoodApp</a> &nbsp;
+
+<br /> 
+<br /> 
 
 ## :paperclip: How to reach me:
 <span >
