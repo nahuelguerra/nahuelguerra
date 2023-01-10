@@ -53,19 +53,19 @@ I am a Full-Stack developer in love with programming and the IT world. I am look
 
 ## :pushpin: My featured proyects
 <h3 align="start">:dog:PawsFounging</h3>
-link: <a href="https://pf-henry-grupo05.vercel.app">pf-henry-grupo05.vercel.app</a> &nbsp;
+link: <a href="https://pf-henry-grupo05.vercel.app" target="_blank">pf-henry-grupo05.vercel.app</a> &nbsp;
 
 <h3 align="start">:tomato:FoodApp</h3>
-link: <a href="https://github.com/nahuelguerra/Pi-FoodApp">github.com/nahuelguerra/Pi-FoodApp</a> &nbsp;
+link: <a href="https://github.com/nahuelguerra/Pi-FoodApp" target="_blank">github.com/nahuelguerra/Pi-FoodApp</a> &nbsp;
 
-<h3 align="start">:portfolio:Portfolio</h3>
-link: <a href="https://portfolio-guerra-nahuel.vercel.app">https://portfolio-guerra-nahuel.vercel.app</a> &nbsp;
+<h3 align="start">:notebook:Portfolio</h3>
+link: <a href="https://portfolio-guerra-nahuel.vercel.app" target="_blank">https://portfolio-guerra-nahuel.vercel.app</a> &nbsp;
 <br /> 
 <br /> 
 
 ## :paperclip: How to reach me:
 <span >
-<a href="https://www.linkedin.com/in/nahuel-emiliano-guerra-77860324b/" ><img width="5%" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> &nbsp;
-<a href="mailto:nahuelguerra997@gmail.com" ><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png"> &nbsp;
-<a href="https://api.whatsapp.com/send?phone=2664790932" ><img width="5%" src="https://es.logodownload.org/wp-content/uploads/2018/10/whatsapp-logo-11.png"> &nbsp;
+<a href="https://www.linkedin.com/in/nahuel-emiliano-guerra-77860324b/" target="_blank"><img width="5%" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> &nbsp;
+<a href="mailto:nahuelguerra997@gmail.com" target="_blank" ><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png"> &nbsp;
+<a href="https://api.whatsapp.com/send?phone=2664790932" target="_blank"><img width="5%" src="https://es.logodownload.org/wp-content/uploads/2018/10/whatsapp-logo-11.png"> &nbsp;
 </span>
